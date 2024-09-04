@@ -15,7 +15,7 @@ import github from "./assets/images/Skills/github.png";
 import university from "./assets/images/Educations/university.png";
 import school from "./assets/images/Educations/school.png";
 
-import project1 from "./assets/images/projects/golf.png";
+import project1 from "./assets/images/Projects/golf.png";
 import project2 from "./assets/images/projects/e-commerce.png";
 import project3 from "./assets/images/projects/tictaktoe.png";
 import project4 from "./assets/images/projects/notes.png";
